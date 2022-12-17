@@ -37,6 +37,7 @@ This machine learning model clusters a set of costumers from its personal data. 
 * The target feature is `Churn`, which tells us wheter the customer left or not the telco.
 
 * Dimensionality reduction with **PCA**.
+* Data balancing with **SMOTE**.
 * Based on **Scikit-Learn** modules and functions such like:
   - `decomposition.PCA`: Dimensionality reduction.
   -  `linear_model.LogisticRegression` : Machine model classifier
