@@ -34,7 +34,7 @@ This machine learning model clusters a set of costumers from its personal data. 
 	* `TotalCharges`
 	* `PaymentMethod`
 
-* The target feature is `Churn`, which tells us wheter the customer left or not the telco.
+* The target feature is `Churn`, which tells us wether the customer left or not the telco.
 
 * Dimensionality reduction with **PCA**.
 * Data balancing with **SMOTE**.
