@@ -6,7 +6,7 @@ Telco Customer Churn
   <br>
 </h1>
 
-<h4 align="center">Machine Learning model to predict wether a given customer will churn. 
+<h4 align="center">Machine Learning model to predict whether a given customer will churn. 
 </h4>
 
 <p align="center">
